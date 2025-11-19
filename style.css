@@ -48,7 +48,7 @@ a.nav-link {
   color: #dddddd !important;
 }
 #home{
-  background-image: url('./back_banner2.png');
+  background-image: url('./back_banner5.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -79,14 +79,15 @@ a.nav-link {
 	background-repeat: no-repeat;
 	background-size: cover;
 	}
-/* #home .lead{
-	font-family: cursive;
-} */
+#home .lead{
+	font-weight: 500;
+}
 #home .display-4{
 	/* font-family: sans-serif; */
     font-size: 50px;
     color:  var(--txt-white);;
     margin: 20px 0 10px;
+	font-weight: 700;
 }
 #home .bttn{
 	border-radius: 12px;
